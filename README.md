@@ -1,10 +1,11 @@
 # 여행의경험 소셜미디어에 담다
-![image](https://github.com/user-attachments/assets/9045cb07-2336-46e0-a199-c24e0c04142a)
+![image](https://github.com/user-attachments/assets/039f7e3f-3956-431c-81e1-1e2063d76cef)
 
 
 
-## 사이트
-배포 URL : http://tripwaves.site
+## 사이트 & PDF
+배포 URL : http://tripwaves.site <br>
+PDF : [여행의경험 소셜미디어에담다_PDF](https://github.com/doyoungking/TripSNS_project/blob/DEV/%EC%97%AC%ED%96%89%EC%9D%98%20%EA%B2%BD%ED%97%98%20%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%EC%97%90%EB%8B%B4%EB%8B%A4.pdf)
 ## 회원가입 or 테스트 계정으로 접속 하실수 있습니다.
 테스트 ID : test <br>
 테스트 PW : test1!
@@ -27,7 +28,6 @@
 - 사용자는 자신의 여행 경험을 게시물이나 쇼츠 형태로 공유하고, 다른 사용자를 팔로우하며 소통할 수 있습니다. 
 - 관리자는 회원 정보와 게시글, 쇼츠를 효율적으로 관리할 수 있습니다</li></li></div> 
   
-  [여행의경험 소셜미디어에담다_PDF](https://github.com/doyoungking/TripSNS_project/blob/DEV/%EC%97%AC%ED%96%89%EC%9D%98%20%EA%B2%BD%ED%97%98%20%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%EC%97%90%EB%8B%B4%EB%8B%A4.pdf)
 
   
  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 주요 기능</h2>  
