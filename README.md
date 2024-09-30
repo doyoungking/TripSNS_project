@@ -6,9 +6,6 @@
 ## 사이트 & PDF
 배포 URL : http://tripwaves.site <br>
 PDF : [여행의경험 소셜미디어에담다_PDF](https://github.com/doyoungking/TripSNS_project/blob/DEV/%EC%97%AC%ED%96%89%EC%9D%98%20%EA%B2%BD%ED%97%98%20%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4%EC%97%90%EB%8B%B4%EB%8B%A4.pdf)
-## 회원가입 or 테스트 계정으로 접속 하실수 있습니다.
-테스트 ID : test <br>
-테스트 PW : test1!
   <div style="text-align: left;"> 
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 기간:2024.06.03~2024.07.18</h2>  
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발인원 : 3명</h2>  
